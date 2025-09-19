@@ -50,7 +50,7 @@ En plus du code source, nous avons réalisé une **présentation visuelle sur Ca
 - Les fonctionnalités principales  
 - Le fonctionnement du programme pas à pas  
 
-👉 [Voir la présentation Canva]([LIEN_ICI](https://www.canva.com/design/DAGjsTOWqFk/Rw2dwRtcenr9B2c-U2tD4A/edit?utm_content=DAGjsTOWqFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+👉 [Voir la présentation Canva](https://www.canva.com/design/DAGjsTOWqFk/Rw2dwRtcenr9B2c-U2tD4A/edit?utm_content=DAGjsTOWqFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
