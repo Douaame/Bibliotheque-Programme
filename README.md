@@ -1,7 +1,7 @@
 # 📚 Système de Gestion de Bibliothèque (Projet C)
 
 Ce dépôt contient un **petit projet universitaire**, développé comme notre premier projet en *binôme*.  
-Il s’agit d’un programme **en C, basé sur la console**, qui simule la gestion d’une petite bibliothèque.
+Il s’agit d’un programme **en C**, qui simule la gestion d’une petite bibliothèque.
 
 ---
 
@@ -45,12 +45,12 @@ Il nous a permis de pratiquer et de renforcer nos compétences en :
 ---
 
 ## 🎨 Présentation du Projet
-En plus du code source, nous avons réalisé une **présentation visuelle sur Canva** afin d’expliquer plus clairement :  
+En plus du code source, nous avons réalisé une **présentation visuelle** afin d’expliquer plus clairement :  
 - Le but du projet  
 - Les fonctionnalités principales  
 - Le fonctionnement du programme pas à pas  
 
-👉 [Voir la présentation Canva](https://www.canva.com/design/DAGjsTOWqFk/Rw2dwRtcenr9B2c-U2tD4A/edit?utm_content=DAGjsTOWqFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+👉 [Voir la présentation](https://www.canva.com/design/DAGjsTOWqFk/Rw2dwRtcenr9B2c-U2tD4A/edit?utm_content=DAGjsTOWqFk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
