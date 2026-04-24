@@ -72,7 +72,7 @@ En plus du code source, nous avons réalisé une **présentation visuelle** afin
 | **Module** | Algorithmique 2 |
 | **Groupe** | L1.Section.05 |
 | **Année** | 2024 / 2025 |
-| **Enseignant(e)** | L.Sadaoui |
+| **Enseignante** | L.Sadaoui |
 
 ---
 
