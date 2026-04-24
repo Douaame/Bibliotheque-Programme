@@ -61,9 +61,23 @@ En plus du code source, nous avons réalisé une **présentation visuelle** afin
 • Zineb Guendouz
 
 ---
+---
+
+## 🎓 Informations Académiques
+
+| | |
+|---|---|
+| **Université** | USTHB — Université des Sciences et de la Technologie Houari Boumediene |
+| **Faculté** | Faculté d'Informatique |
+| **Module** | Algorithmique 2 |
+| **Groupe** | L1.Section.05 |
+| **Année** | 2024 / 2025 |
+| **Enseignant(e)** | L.Sadaoui |
+
+---
 
 ## 📄 Licence
 
-Ce projet est réalisé uniquement à des fins pédagogiques.
+Ce projet est réalisé à des fins pédagogiques dans le cadre du module **Algorithmique 2** à l'**USTHB**.
 Vous pouvez librement réutiliser ou adapter le code pour l’apprentissage.
 
